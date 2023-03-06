@@ -15,7 +15,6 @@ st.sidebar.info(
        '''
     )
 
-# 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
 
 model_engine = "text-davinci-003"
 openai.api_key = "" 
